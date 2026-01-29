@@ -56,6 +56,7 @@ public class MyFirstClass {
        
         System.out.println("Quitting the driver");
         System.out.println("Architect Bhanu adding this line");
+        System.out.println("Architect Arjun adding this line in US time zone");
         //close Fire fox
         driver.quit();
        
