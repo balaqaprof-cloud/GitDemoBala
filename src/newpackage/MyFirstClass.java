@@ -55,6 +55,7 @@ public class MyFirstClass {
         }
        
         System.out.println("Quitting the driver");
+        System.out.println("Architect Bhanu adding this line");
         //close Fire fox
         driver.quit();
        
