@@ -24,7 +24,8 @@ public class MyFirstClass {
 		
         String expectedTitle = "Guru99: Free Online Tutorials and Business Software Reviews";
         String actualTitle = "";
-
+        System.out.println("Expected Title is" +expectedTitle);
+        System.out.println("Expected Title should match with Actual Title" );
         // launch Fire fox and direct it to the Base URL
         driver.get(baseUrl);
     	JavascriptExecutor js = (JavascriptExecutor) driver;	
