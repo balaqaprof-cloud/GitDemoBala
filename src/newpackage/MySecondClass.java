@@ -17,7 +17,7 @@ public class MySecondClass {
         } else {
             System.out.println("Test Failed");
         }
-			
+		System.out.println("Execution completed");	
         driver.quit();
 	}
 

@@ -54,8 +54,10 @@ public class MyFirstClass {
             System.out.println("Test Failed");
         }
        
+        System.out.println("Quitting the driver");
         //close Fire fox
         driver.quit();
+       
     }
 
 }
